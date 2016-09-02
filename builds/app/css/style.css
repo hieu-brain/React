@@ -9,3 +9,17 @@
 .navbar-form .form-group {
   margin-right: 5px;
 }
+
+ul.pager.nav.navbar-nav {
+  margin: 13px 0;
+}
+
+ul.pager.nav.navbar-nav li {
+  margin: 0 0 0 5px;
+}
+
+ul.pager.nav.navbar-nav li > a:hover, ul.pager.nav.navbar-nav li > a:focus {
+  color: #ffffff;
+  background-color: #128f76;
+  border-color: #11866f;
+}
